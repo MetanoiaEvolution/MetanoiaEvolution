@@ -171,3 +171,6 @@ Here’s a brief timeline of my journey in tech:
 - **Other**: WebSockets, Nginx, Redis
 
 ---
+
+![Your GitHub Snake](https://platane.me/github-contributions-snake.svg?username=MetanoiaEvolution)
+
