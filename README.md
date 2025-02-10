@@ -112,14 +112,6 @@ I contribute to the open-source community by:
 
 ---
 
-## 📊 GitHub Activity
-
-Here's a breakdown of my GitHub activity:
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language-card?username=MetanoiaEvolution&theme=dark)
-
----
-
 ## 💡 I’m Currently Learning
 
 I'm learning about the following technologies:
